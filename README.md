@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @m1ntb00k
+- 👀 I’m interested in ... program  
+- 🌱 I’m currently learning ... code    
+- 💞️ I’m looking to collaborate on ... any 
+- 📫 How to reach me ... here
